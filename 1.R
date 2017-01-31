@@ -11,3 +11,4 @@ subStruc_cond = d1$SUBSTRUCTURE_COND_060
 d2 = data.frame(bridgeID, year, fips_code, deck_cond, supStruc_cond, subStruc_cond)
 d2 = as.tbl(d2)
 d2
+
