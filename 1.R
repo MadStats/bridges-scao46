@@ -1,5 +1,4 @@
 require("tidyverse")
-require("hms")
 link = "https://www.fhwa.dot.gov/bridge/nbi/2015/delimited/FL15.txt"
 d1 = read_csv(link)
 colnames(d1)
